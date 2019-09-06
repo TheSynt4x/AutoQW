@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\obj\Debug\BotPluginChat.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\obj\Debug\BotPluginChat.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\BotPluginChat.dll.config
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\BotPluginChat.dll
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\BotPluginChat.pdb
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\Bot.exe
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\Bot.pdb
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\Bot.exe.config
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\obj\Debug\BotPluginChat.dll
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\obj\Debug\BotPluginChat.pdb
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\obj\Debug\BotPluginChat.Chat.resources
+C:\Users\admin\source\repos\AQWBot\BotPluginChat\obj\Debug\BotPluginChat.csproj.GenerateResource.Cache

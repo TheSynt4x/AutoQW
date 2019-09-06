@@ -1,0 +1,28 @@
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\obj\Debug\BotPluginTest.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\obj\Debug\BotPluginTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\BotPluginTest.dll.config
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\BotPluginTest.dll
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\BotPluginTest.pdb
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\Bot.exe
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\Bot.pdb
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\Bot.exe.config
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\obj\Debug\BotPluginTest.dll
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\obj\Debug\BotPluginTest.pdb
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\obj\Debug\BotPluginTest.TestForm.resources
+C:\Users\admin\source\repos\AQW Bot\BotPluginTest\obj\Debug\BotPluginTest.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\BotPluginTest.dll.config
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\BotPluginTest.dll
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\BotPluginTest.pdb
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\Bot.exe
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\Bot.pdb
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\Bot.exe.config
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\obj\Debug\BotPluginTest.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\obj\Debug\BotPluginTest.TestForm.resources
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\obj\Debug\BotPluginTest.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\obj\Debug\BotPluginTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\obj\Debug\BotPluginTest.dll
+C:\Users\admin\source\repos\AQWBot\BotPluginTest\obj\Debug\BotPluginTest.pdb

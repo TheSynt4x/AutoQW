@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotPluginTest", "BotPluginTest\BotPluginTest.csproj", "{E1238339-C952-497A-844F-B17B9C01479C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotPluginChat", "BotPluginChat\BotPluginChat.csproj", "{A8BE2A5E-D828-4B81-A1C1-BD7658BA2E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot", "Bot\Bot.csproj", "{CC3DE65D-D221-4417-B1CF-42382A396538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1238339-C952-497A-844F-B17B9C01479C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1238339-C952-497A-844F-B17B9C01479C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1238339-C952-497A-844F-B17B9C01479C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1238339-C952-497A-844F-B17B9C01479C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BE2A5E-D828-4B81-A1C1-BD7658BA2E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BE2A5E-D828-4B81-A1C1-BD7658BA2E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BE2A5E-D828-4B81-A1C1-BD7658BA2E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BE2A5E-D828-4B81-A1C1-BD7658BA2E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3DE65D-D221-4417-B1CF-42382A396538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3DE65D-D221-4417-B1CF-42382A396538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3DE65D-D221-4417-B1CF-42382A396538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3DE65D-D221-4417-B1CF-42382A396538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E22698D-E93A-49A4-B836-06E2984C34F4}
+	EndGlobalSection
+EndGlobal
