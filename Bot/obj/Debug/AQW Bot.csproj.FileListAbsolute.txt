@@ -1,7 +1,0 @@
-C:\Users\admin\source\repos\AQW Bot\AQW Bot\bin\Debug\AQW Bot.exe.config
-C:\Users\admin\source\repos\AQW Bot\AQW Bot\bin\Debug\AQW Bot.exe
-C:\Users\admin\source\repos\AQW Bot\AQW Bot\bin\Debug\AQW Bot.pdb
-C:\Users\admin\source\repos\AQW Bot\AQW Bot\obj\Debug\AQW Bot.csprojResolveAssemblyReference.cache
-C:\Users\admin\source\repos\AQW Bot\AQW Bot\obj\Debug\AQW Bot.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\AQW Bot\AQW Bot\obj\Debug\AQW Bot.exe
-C:\Users\admin\source\repos\AQW Bot\AQW Bot\obj\Debug\AQW Bot.pdb
